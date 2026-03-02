@@ -186,6 +186,7 @@ Implementacion sugerida
 - DELETE /actualizaciones/:id opcional
 
 ## Estructura sugerida del proyecto
+```
 src/app/
   core/
     services/
@@ -209,7 +210,7 @@ src/app/
         actualizaciones-timeline/
       reportes.routes.ts
   app.routes.ts
-
+```
 ## Criterios de aceptacion checklist
 - Se puede crear un reporte y se guarda en JSON Server
 - El sistema autogenera codigo con formato R-YYYY-NNNN
