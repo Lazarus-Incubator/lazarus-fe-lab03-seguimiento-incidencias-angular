@@ -223,4 +223,4 @@ src/app/
 - Se puede registrar una actualizacion
 - Al registrar actualizacion se actualiza estadoActual y o areaResponsable del reporte
 - Las reglas condicionales de la actualizacion funcionan correctamente
-- Regla anti duplicados implementada si se desarrolla la mejora plus
+- Regla anti duplicados implementada
